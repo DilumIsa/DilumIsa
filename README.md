@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Dilum
+### Hi there 👋, My name is Dilum
 #### I am Engineering Undergraduate Student in UOP
 
 I am Mechanical Engineering Undergraduate in University of Peradeniya and I specialized in Mechatronics Sub Engineering Field. I really like to working with the programming languages and learning about Robotics. 
