@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dilum From SriLanka</h1>
+<h1 align="center">Hi 👋, I'm Dilum </h1>
 <h3 align="center">I am Engineering Undergraduate Student in UOP. I am Mechanical Engineering Undergraduate in University of Peradeniya and I specialized in Mechatronics Sub Engineering Field. I really like to working with the programming languages and learning about Robotics.</h3>
 
 <h3 align="left">Connect with me:</h3>
