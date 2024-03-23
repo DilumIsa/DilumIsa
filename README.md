@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working as a undergraduate student in university of peradeniya
-- 🌱 I’m currently learning Mechatronics field as a Mechanical Engineering
-- 👯 I’m looking to collaborate on some kind of projects related to my undergraduate learnings
+I’m currently working as a undergraduate student in university of peradeniya
+I’m currently learning Mechatronics field as a Mechanical Engineering
+I’m looking to collaborate on some kind of projects related to my undergraduate learnings
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
