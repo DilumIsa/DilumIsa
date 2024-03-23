@@ -1,16 +1,3 @@
 ### Hi there 👋
 
-<!--
-**DilumIsa/DilumIsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-I’m currently working as a undergraduate student in university of peradeniya
-I’m currently learning Mechatronics field as a Mechanical Engineering
-I’m looking to collaborate on some kind of projects related to my undergraduate learnings
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Dilum from SriLanka, and I am Mechanical Engineering Undergraduate student in University of Peradeniya. Also I specialized in Mechatronics subfield and I really enjoy learning programming languages and working with the Robot Machines.
