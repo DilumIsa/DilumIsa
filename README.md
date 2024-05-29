@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Dilum From SriLanka</h1>
-<h3 align="center">I am Engineering Undergraduate Student in UOP. I am Mechanical Engineering Undergraduate in University of Peradeniya and I specialized in Mechatronics Sub Engineering Field.</h3>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=FF00FF&width=490&height=100&lines=Hi+%2C+I'm+Dilum From SriLanka+%F0%9F%91%8B&stop=100" alt="Typing SVG" /></a></p>
+<h3 align="center">I am an Engineering Undergraduate Student at UOP. I am studying Mechanical Engineering at the University of Peradeniya, specializing in the Mechatronics Sub-Engineering field.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
