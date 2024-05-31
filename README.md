@@ -3,7 +3,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=40&color=FF00FF&width=600&height=100&lines=Hi+%2C+I'm+Dilum From SriLanka+%F0%9F%91%8B&" alt="Typing SVG" /></a></p>
 <h3 align="center">I am an Engineering Undergraduate Student at UOP. I am studying Mechanical Engineering at the University of Peradeniya, specializing in the Mechatronics Sub-Engineering field.</h3>
 
-# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Connect with me:</h3></b>
+# <img src="https![To-do List Personal Docs Banner in Black Purple Blue Dark Tech Style](https://github.com/DilumIsa/DilumIsa/assets/154690240/cdceca1f-b391-4afa-a392-31377ea704f5)
+://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Connect with me:</h3></b>
 <p align="left">
 <a href="https://fb.com/Dilum Nawanjana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dilum nawanjana" height="30" width="40" /></a>
 <a href="https://instagram.com/dil_um_a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dil_um_a" height="30" width="40" /></a>
