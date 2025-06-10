@@ -1,6 +1,6 @@
 # ![To-do List Personal Docs Banner in Black Purple Blue Dark Tech Style](https://github.com/DilumIsa/DilumIsa/assets/154690240/cdceca1f-b391-4afa-a392-31377ea704f5)
 <b><p align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=AF0AF7&background=FFAF1300&vCenter=true&width=480&lines=Hi%2C+I'm+Dilum+From+SriLanka.)](https://git.io/typing-svg)</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=AF0AF7&background=FFAF1300&vCenter=true&width=500&lines=Hi%2C+I'm+Dilum+From+SriLanka.)](https://git.io/typing-svg)</p>
 # <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="30"><h3>I am an Engineering Undergraduate Student at UOP. I am studying Mechanical Engineering at the University of Peradeniya, specializing in the Mechatronics Sub-Engineering field.</h3>
 
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Connect with me:</h3></b>
